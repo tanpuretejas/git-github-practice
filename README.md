@@ -11,3 +11,5 @@ Currently working on the profile feature.
 
 Main branch development continues here.
 Feature branch development continues here.
+
+This line was added directly on GitHub.
