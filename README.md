@@ -16,3 +16,5 @@ This line was added directly on GitHub.
 
 Practicing GitHub feature branches and remote workflows.
 This change simulates my friend's contribution.
+
+I made this change locally and will push it to GitHub.
